@@ -1,2 +1,2 @@
 # Delta-demo
-It is used for learning git and github
+It is used for learning git and github.
