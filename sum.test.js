@@ -8,6 +8,6 @@ describe("test for sum fix" ,()=>{
     });
 
       test("add -5-5 =10" ,()=>{
-    expect(sum(-5,-5)).toBe(10);
+    expect(sum(-5,-5)).toBe(-10);
     });
 })
